@@ -1,4 +1,5 @@
 ### Hi there 👋
+광운대학교 컴퓨터정보공학과 1학년
 ---
 #### Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
